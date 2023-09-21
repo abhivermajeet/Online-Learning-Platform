@@ -12,7 +12,9 @@ Trainer can avail three services provided by this app:
 Second type of user is - 2) Student
 <br>
 There are two features provided for the student by this application:
-     1) he cann purchase one or more than one course from this platform and start his learning,
-     2) he can view the details of his purchased course under MyCourse Section.
+<br>
+     1) he can purchase one or more than one course from this platform and start his learning,
+        <br>
+     3) he can view the details of his purchased course under MyCourse Section.
 <br><br>
 Also a secured payment gateway is provided for the student where he can make his payment with any one mode from the various payment mode of this application.
