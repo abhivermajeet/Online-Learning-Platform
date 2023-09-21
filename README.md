@@ -1,7 +1,9 @@
 # Online-Learning-Platform
 This is a Full Stack Web Application where two types of user can use this application by make them registered on this platform.
 And then after log in he can avail the facilities provided by this application.
+<br>
 First type of user is - 1) Trainer
+<br>
 Trainer can avail three services provided by this app:
   1) he cann add new course to this platform,
   2) he can add new lesson/lessons to the existing course,
